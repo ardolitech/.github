@@ -1,3 +1,0 @@
-Olá!
-
-Teste de readme.
